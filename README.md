@@ -12,18 +12,18 @@ In this assignment, you will create a JavaScript application based on a function
 Download and execute this simple Java application, adapted directly from an example in chapter 9 of your SE1011 textbook. The application simulates flipping a number of coins (e.g. 10) a given number of times (e.g. 1,000,000). Each coin flip results in some combination of heads and tails - anywhere from no heads to all heads. Over 100,000 flips, some finite number of flips with 0 heads will occur, some finite number with 5 heads, and others with 1, 2, 3, or 4 heads. The number of heads that occur over all flips can be displayed as a histogram, as follows:
 
 Number of times each head count occurred in 1000000 flips of 10 coins:
- 0  974  
- 1  9826  *
- 2  43914  ****
- 3  117248  ************
- 4  204504  ********************
- 5  246600  *************************
- 6  205096  *********************
- 7  117065  ************
- 8  43872  ****
- 9  9895  *
- 10  1006  
-Coin Flipper Time: 30934ms
+#####  0  974  
+#####  1  9826  *
+#####  2  43914  ****
+#####  3  117248  ************
+#####  4  204504  ********************
+#####  5  246600  *************************
+#####  6  205096  *********************
+#####  7  117065  ************
+#####  8  43872  ****
+#####  9  9895  *
+#####  10  1006  
+##### Coin Flipper Time: 30934ms
 
 Run the Java program on your PC about 10 times. You will have to run it repeatedly to get a good feeling for the average time of execution. Record the times it takes to execute. For capturing results, have the program flip 10 coins 1 million times.
 
