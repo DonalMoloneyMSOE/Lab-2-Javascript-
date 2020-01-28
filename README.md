@@ -1,5 +1,5 @@
-# Lab-2-Javascript-
-Lab 2: Javascript Created 12/7/17
+# se 3840 Lab-2-Javascript- From (12/7/17)
+Lab 2: Javascript
 
 Outcomes
 bullet	become familiar with basic JavaScript programming
